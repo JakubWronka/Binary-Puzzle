@@ -1,0 +1,13 @@
+﻿  main.cpp
+  functions.cpp
+e:\studia\projekty\binarypuzzle\binarypuzzle\functions.cpp(238): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+e:\studia\projekty\binarypuzzle\binarypuzzle\functions.cpp(185): warning C4715: 'whichRule': not all control paths return a value
+e:\studia\projekty\binarypuzzle\binarypuzzle\functions.cpp(359): warning C4715: 'checkUp': not all control paths return a value
+e:\studia\projekty\binarypuzzle\binarypuzzle\functions.cpp(409): warning C4715: 'checkLeft': not all control paths return a value
+e:\studia\projekty\binarypuzzle\binarypuzzle\functions.cpp(384): warning C4715: 'checkDown': not all control paths return a value
+e:\studia\projekty\binarypuzzle\binarypuzzle\functions.cpp(434): warning C4715: 'checkRight': not all control paths return a value
+e:\studia\projekty\binarypuzzle\binarypuzzle\functions.cpp(470): warning C4715: 'secondRuleCols': not all control paths return a value
+e:\studia\projekty\binarypuzzle\binarypuzzle\functions.cpp(494): warning C4715: 'secondRuleRows': not all control paths return a value
+  binarypuzzle.vcxproj -> E:\Studia\Projekty\binarypuzzle\Debug\binarypuzzle.exe
+  binarypuzzle.vcxproj -> E:\Studia\Projekty\binarypuzzle\Debug\binarypuzzle.pdb (Partial PDB)
